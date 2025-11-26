@@ -30,7 +30,7 @@ and automatically fetches nutrition data using the CalorieNinja API.
 - YOLOv8s and MobileNetV3 → Converted to TFLite  
 - Supports 250+ food classes   
 - Accuracy: 73.4%
-- More Info: 
+- More Info: **[NutriSnap.pptx](#)**
 ---
 
 ## 📱 Download APK
