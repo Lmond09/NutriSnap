@@ -34,6 +34,6 @@ and automatically fetches nutrition data using the CalorieNinja API.
 ---
 
 ## 📱 Download APK
-You can download the latest release using your mobile phone:  
+You can download the latest release using mobile phone:  **[NutriSnap Application](https://github.com/Lmond09/NutriSnap/releases/download/v1.0.0/NutriSnap.apk)**
 
 
